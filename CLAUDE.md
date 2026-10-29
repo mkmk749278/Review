@@ -10,6 +10,16 @@ The standard is the owner's **Forensic Video Audit & Editorial Intelligence Prot
 `docs/REVIEW_PROTOCOL.md`. This file holds the rules every review session must follow. Read the protocol in full
 before every review.
 
+## Two channels, kept separate (owner, 2026-10-29)
+Be Practical with Kishore and Built on Bharat are reviewed as separate channels: their own folders
+(`reviews/bepracticalwithkishore/`, `reviews/builtonbharat/`), their own audiences, styles and rules. Never carry a
+finding, a fix or a convention from one channel's film into the other's review.
+
+## Smoothness is checked frame by frame (owner, 2026-10-29)
+The viewer must feel the film is smooth. Every cut is decoded in full and measured for judder (footage at another
+frame rate, so frames repeat in a steady beat), flash frames (a shot of 1–9 frames at a cut), frozen, black or empty
+frames, and timestamp gaps. Each is reported with its exact time and the fix.
+
 ## Independence
 - The review stands on its own. It is built from this repo's protocol, the material submitted for review and
   sources checked during the review, **not** from the video-building repos' rules, notes or reasoning.
