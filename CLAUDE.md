@@ -20,6 +20,18 @@ The viewer must feel the film is smooth. Every cut is decoded in full and measur
 frame rate, so frames repeat in a steady beat), flash frames (a shot of 1–9 frames at a cut), frozen, black or empty
 frames, and timestamp gaps. Each is reported with its exact time and the fix.
 
+## Creativity first, no ceiling (owner, 2026-10-30)
+The review is not only a fault list. For every weak, generic or flat moment, propose the strongest idea that could
+replace it: a sharper real shot, a match cut, a sound beat, a better visual metaphor, a signature moment people will
+remember and share. Think like a film director and a storyteller, not a checklist. Rules are the floor, never the
+ceiling; only the hard lines (facts, honesty labels, rights, respect, the locked voice) limit the ideas.
+
+## Every shot must fit its exact moment (owner, 2026-10-30)
+A label and a correct period are not enough. For every shot ask: does this exact picture belong to these exact words,
+this place, this time, this feeling? Generic stand-ins (a random crowd on a road for "the Corona days", stock
+microscopes, foreign ports) are findings even when nothing is technically wrong. *Why:* the first pharma review missed
+a generic road crowd under the Corona-days narration; the owner found it.
+
 ## Independence
 - The review stands on its own. It is built from this repo's protocol, the material submitted for review and
   sources checked during the review, **not** from the video-building repos' rules, notes or reasoning.
