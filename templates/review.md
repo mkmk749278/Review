@@ -1,5 +1,5 @@
 # Forensic Audit: [Project Name / Version]
-**Channel:** [Be Practical with Kishore | Built on Bharat]
+**Channel:** [Be Practical with Kishore | Built on Bharat | The Mechanical Paradox]
 **Review Version:** [e.g., preview3 -> v4]
 **Overall Algorithmic Readiness Score:** [X / 10]
 
