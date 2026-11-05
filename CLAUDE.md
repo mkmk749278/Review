@@ -5,6 +5,13 @@ This repo **reviews the videos of three channels independently**:
   Chains, Trade Policy, Micro-Economics.
 - [Built on Bharat](https://youtube.com/@builtonbharat): Industrial History, National Mega-Projects, Strategic
   Enterprises, Geopolitics.
+  **Retired as a channel (owner, 2026-11-05):** its films now go out on Be Practical with Kishore in the playlist
+  "Built on Bharat | The Industrial Backbone" (the Tata film is the anchor). Reviews of those films stay in
+  `reviews/builtonbharat/` for continuity and keep this column's history, maps and respect checks, but Pillar 6 judges
+  them as Be Practical with Kishore releases: one film a week, Sunday 11:30 AM IST (Thursday 6:30 PM IST as the
+  alternative), titles under 45 characters with no channel suffix, added to the series playlist. The owner's rule is
+  to schedule the film as early as it is finished, with 45 minutes as the minimum; the review still flags anything under
+  3 hours as a processing risk for 4K60 (YouTube Help 71674: 4K takes about 4× longer than HD, 60 fps longer still).
 - [The Mechanical Paradox](https://youtube.com/@themechanicalparadox) (added by the owner, 2026-11-03): code-rendered
   physics explainers of everyday machines, for a global English audience.
 
